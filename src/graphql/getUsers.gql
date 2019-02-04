@@ -1,0 +1,12 @@
+{
+    #users query
+    users {
+        id
+        name
+        email
+        company {
+            name
+        }
+    }
+}
+
